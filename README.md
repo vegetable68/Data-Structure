@@ -1,3 +1,10 @@
 # Data-Structure
 
-Implemented foundamental data structures in C++.
+Implemented basic data structures in C++:
+
+- Arraylist
+- Hashmap
+- Linkedlist
+- Treemap
+
+- 
