@@ -7,4 +7,3 @@ Implemented basic data structures in C++:
 - Linkedlist
 - Treemap
 
-- 
